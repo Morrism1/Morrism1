@@ -1,6 +1,7 @@
+![_Maurice__](https://github.com/Morrism1/Morrism1/blob/main/_Maurice__.png)
+
 ### Hi there 👋, I am Maurice Murangwa
 #### I am a full-stack software Developer
-![_Maurice__](https://user-images.githubusercontent.com/46853433/111812274-a0fe3c00-88e0-11eb-9913-939145f71f85.png)
 
 I am Maurice from Rwanda, and I’m a full-stack software developer who enjoys turning complex business ideas into web applications using Javascript, React, Ruby and Rails.
 
