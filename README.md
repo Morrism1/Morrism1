@@ -1,5 +1,3 @@
-![_Maurice__](https://github.com/Morrism1/Morrism1/blob/main/_Maurice__.png)
-
 # Maurice Murangwa
 #### I am a full-stack software Developer
 
